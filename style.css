@@ -1,0 +1,21 @@
+body {
+  background-color: gray;
+  justify-items: center;
+  align-items: center;
+  flex-direction:column ;
+  display: flex;
+
+}
+img {
+  border-radius: 30%;
+}
+h1 {
+  color: darkblue
+}
+#coins {
+  flex-direction: column ;
+  background-color: lightskyblue;
+  align-items: center;
+  border-radius: 3%;
+  
+}
